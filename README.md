@@ -1,2 +1,2 @@
-# PDX-Rice.github.io
+# Kaleb-Rice.github.io
 Kaleb Rice's portfolio website
